@@ -1,0 +1,25 @@
+{
+  "name": "sunset-glow",
+  "displayName": "Sunset Glow",
+  "repository": {
+    "url": "https://github.com/mrudulpatel/dark-yellow-theme"
+  },
+  "publisher": "MrudulPatel",
+  "description": "Official Sunset Glow color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunset Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset Glow-color-theme.json"
+      }
+    ]
+  }
+}
